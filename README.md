@@ -1,1 +1,1 @@
-Uzip the and extract the file. 
+1) Uzip the and extract the FLAGGED_MIT-BIH Arrhythmia Database.zip file. 
